@@ -1,3 +1,4 @@
 streamlit
+streamlit_option_menu
 plotly
 scikit-learn == 1.0.2
